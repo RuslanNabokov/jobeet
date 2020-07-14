@@ -1,0 +1,6 @@
+relationships:
+    database: "jobeet:postgresql"
+
+runtime:
+    extensions:
+        - pdo_pgsql
